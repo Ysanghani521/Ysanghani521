@@ -1,4 +1,4 @@
-# Yash Sanghani's Projects
+# Yash Sanghani
 
 Welcome to my GitHub repository! Here you will find a collection of my projects and work, primarily focused on data science, machine learning, and financial analysis.
 
