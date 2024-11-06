@@ -53,7 +53,6 @@ Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/yash-sangh
 - **Databases for Data Scientists** (Specialization) - University of Colorado
 - **Introduction to Data Analysis Using Excel** - Rice University
 - **Financial Markets** - Yale University
-- **Investment Management with Python and Machine Learning** - EDHEC Business School
 
 ## Contact Information
 
